@@ -35,6 +35,9 @@ Javascript:
 8. Getting user input data without any cleaning or checking before hand
 9. Not checking for any undefined or null data which could possibly come back from fetching
 
+CSS:
+1. Not Mobile friendly
+
 Other Issues:
 
 1. there is a unused cat.jpeg image in source folder!
