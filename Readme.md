@@ -1,6 +1,6 @@
 # The project belongs to the original developer which is dang connie, you can find her below:
 
-[Origina GitHub Repo](https://github.com/dangconnie/movie-app)
+[Original GitHub Repo](https://github.com/dangconnie/movie-app)
 
 #### I only contributed on commenting to different parts :)
 
